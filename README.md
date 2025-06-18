@@ -44,22 +44,19 @@ The analysis is supported by comprehensive reports and interactive dashboards.
 
 ## 📈 Sample Visualizations
 
+
+![image](https://github.com/user-attachments/assets/13482db8-7263-4e34-a6d6-9c153ea9e443)
+
+
+![image](https://github.com/user-attachments/assets/717ef594-c923-4e70-8ee9-ba4999d4dc79)
+
+
+![image](https://github.com/user-attachments/assets/4c78e6e5-884b-4e2e-a75b-e0dd5e051ce6)
+
+
+![image](https://github.com/user-attachments/assets/5bb4d00e-45b6-4b9c-bc83-522e584fae62)
+
 ```
-![image](https://github.com/user-attachments/assets/80a3ee86-ba9a-41aa-9601-df9b5479f445)
-
-
-![image](https://github.com/user-attachments/assets/d7bab262-41e3-4b91-9b1e-ec6ff93c2fed)
-
-
-![image](https://github.com/user-attachments/assets/0a6fd434-9cce-4acf-a36a-43f3ddf83bc9)
-
-
-![image](https://github.com/user-attachments/assets/4b3ec85c-ec12-42cb-8f72-e6c420345c8d)
-
-
-
-
-
 ```
 
 ---
